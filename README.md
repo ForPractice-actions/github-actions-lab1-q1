@@ -1,2 +1,2 @@
 # GitHub Actions Lab 1
-#Dummy actions
+#Dummy commit
